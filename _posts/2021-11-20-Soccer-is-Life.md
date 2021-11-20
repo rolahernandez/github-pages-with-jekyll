@@ -2,5 +2,4 @@ Soccer has been my life since I can remember. I love playing soccer anytime I ca
 ---
 title: "Soccer-is-Life"
 date: 2021-11-20
-
 ---
